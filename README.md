@@ -2,8 +2,7 @@
 
 This is the English documentation for CONFIRE SHOWTIME. The documentation is Open Source and we have implemented it using [GitBook](https://github.com/GitbookIO/gitbook).
 
-> ## Important information:
-> The open source version of GitBook used here is no longer under active development. The current version of GitBook is not open source. 
+:fire: *The open source version of GitBook used here is no longer under active development. The current version of GitBook is not open source.*
 
 ## Install GitBook for Windows
 
