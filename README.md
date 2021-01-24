@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/phed9ct9itlj1hna?svg=true)](https://ci.appveyor.com/project/stueber/doc-showtime-en)
-
 # CONFIRE SHOWTIME Documentation
 
 This is the English documentation for CONFIRE SHOWTIME. The documentation is Open Source and we have implemented it using [GitBook](https://github.com/GitbookIO/gitbook).
